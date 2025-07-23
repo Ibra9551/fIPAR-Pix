@@ -1,0 +1,3 @@
+## Still camera : DSC_XXX
+## Action camera : dX_3rd_frameXXXX
+## d1,d2,d3 : days
