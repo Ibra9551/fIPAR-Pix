@@ -4,7 +4,7 @@ Code and example data for hemispherical cameras-based estimation of fIPAR in orc
 
 This repository contains the scripts, sample data, and processing workflow proposed in the paper:  
 **"Tracking the sun below the canopy: assessing the diurnal pattern of light interception in orchards and vineyards by hemispherical imaging"**
-DOI : To be attributed
+DOI : http://doi.org/10.2139/ssrn.5349528
 
 # Contents
 
